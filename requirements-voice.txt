@@ -1,0 +1,5 @@
+faster-whisper==1.2.1
+sounddevice==0.5.6
+kokoro-onnx==0.6.1
+# Faster Whisper 1.2.1 aún usa metadata_errors, eliminado en PyAV 19.
+av==16.1.0

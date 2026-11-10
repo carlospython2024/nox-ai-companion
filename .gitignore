@@ -1,0 +1,5 @@
+__pycache__/
+/data/
+/.ollama/
+/.venv-voice/
+/.voice-models/
